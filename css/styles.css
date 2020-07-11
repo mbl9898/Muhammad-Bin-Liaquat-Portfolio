@@ -29,11 +29,11 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 2rem;
   color: #127681;
-  width: 10%;
+
+  margin: 2rem auto;
 }
 
 #title2 {
-  margin-top: 0;
   font-weight: normal;
 }
 
